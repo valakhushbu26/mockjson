@@ -1,4 +1,5 @@
 {
-	"color": "red",
-	"value": "#f00"
+	"posts":{
+		{"colorr": "red","valuee": "#f00"}
+}
 }
